@@ -22,12 +22,12 @@ body, html {
 }
 
 .bgimg-2 {
-  background-image: url("gambar3.jpg");
+  background-image: url("gamba/gambar3.jpg");
   min-height: 400px;
 }
 
 .bgimg-3 {
-  background-image: url("gambar2.jpg");
+  background-image: url("gamba/gambar2.jpg");
   min-height: 400px;
 }
 
